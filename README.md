@@ -323,7 +323,7 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
   -->
 
 ## Scheduling a 1 on 1 With Your Project Manager
-We'll not be hosting daily standups during capstone development. Students are encouraged to reach out to their project manager to schedule a 1 on 1 to discuss anything about their project *(Technical questions will still posted in the Technical channel)*. In addition, your project manager will reach out to you to schedule a 1 on 1 on Friday, Week 21, Day 5, to check up on your progress. 
+We'll not be hosting daily standups during capstone development. Students are encouraged to reach out to their project manager to schedule a 1 on 1 to discuss anything about their project *(Technical questions will still posted in the Technical channel)*.
 
 
 ## Workflow Expectations
@@ -356,7 +356,7 @@ We'll not be hosting daily standups during capstone development. Students are en
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Thursday of the first week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Slack every day, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Slack.
+Peer Review will start on Wednesday of the second week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Discord every day, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Discord.
 
 *Note- We will also do a short demo the morning of the day peer review starts.*
 
