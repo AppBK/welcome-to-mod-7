@@ -144,9 +144,9 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 ## Capstone Project Proposals
 All students should have a **target website** they will clone or use for inspiration. You must submit the [Google Project Proposal Form](https://forms.gle/VfwHSR88QZo73jUt5) and get approval from an IA before implementing the features. The deadline for all project proposals will have to be submitted by the **end of lunch** on W21D2. 
 
-If you're currently waiting for an IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initialize your project + deploy skeleton starter, set up your GitHub repo, project kanban board, etc.)*. 
+If you're currently waiting for an IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initialize your project + deploy skeleton starter, set up your GitHub repo, AWS walkthrough, project kanban board, etc.)*. 
 
-The Mod 7 staff will review your GitHub repo wiki documents based on the submission order. You can view the queue to see when your project is being reviewed in the Capstone Project Proposal Responses Google Spreadsheet. [Link to Proposal Responses](https://docs.google.com/spreadsheets/d/1CkUpeCLUL0x7Oo8aVzzRiR3Kj55GHgHGbTXtsPoapp4/edit?resourcekey#gid=640829555)
+<!-- The Mod 7 staff will review your GitHub repo wiki documents based on the submission order. You can view the queue to see when your project is being reviewed in the Capstone Project Proposal Responses Google Spreadsheet. [Link to Proposal Responses](https://docs.google.com/spreadsheets/d/1CkUpeCLUL0x7Oo8aVzzRiR3Kj55GHgHGbTXtsPoapp4/edit?resourcekey#gid=640829555) -->
 
 *Note- Any project proposal without all the required wiki documentation will be disapproved and asked to complete.*
 
