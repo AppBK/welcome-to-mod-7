@@ -356,20 +356,20 @@ We'll not be hosting daily standups during capstone development. Students are en
 
 # Phase 2.5 - Peer Review
 
-Peer Review will start on Wednesday of the second week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Discord every day, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Discord.
+Peer Review will start on Wednesday of the second week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Discord every day, with whom you shall walkthrough and explain your own code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Discord. In fact, if you post a question in Lecture during this time, it will incur a strike for you and your partner. 
 
 > This exercise is helpful to practice communicating what your code does when an interviewer or coworker asks you to explain parts of your code.
 
 ## Steps:
 
 1. Choose who goes first. You each get 20 minutes and should have a timer set up.
-2. Your **partner** will choose a specific file for you to read from.
+2. You will choose a specific file for you to read from.
     - Could be something you are proud of, something new, your redux store, your routes, your React components, your CSS, your API routes, etc...
-3. You will begin reading your partner's code file line by line, explaining the workflow of their code.
+3. You will begin reading your code file line by line, explaining what it it does or is supposed to do.
    
 ## Things to consider:
 
-1. In the event that your code currently has a bug. Walk your partner through that code and explain what you are trying to accomplish step-by-step. Can your partner follow your logic?
+1. In the event that your code currently has a bug. Walk your partner through that code and explain what you are trying to accomplish step-by-step. Can your partner follow your logic? This is technically not a debugging session, but your partner may give insights as they comment on your code and ask questions about it.
 2. Both sides are responsible for getting equal time.
 3. Students are responsible to give and receive constructive feedback and commit to the exercise.
 4. I will be jumping in rooms periodically to check progress and could ask questions!
@@ -379,13 +379,13 @@ Peer Review will start on Wednesday of the second week of capstone every day aft
 ## Tips:
 
 1. Write down notes of things you notice about your code.       
-     - Mistakes, things you missed, things you want to change, etc...
+     - Mistakes, things you missed, things you want to change, things that need to be commented, etc...
 2. Pay attention to the way your partner has coded things.
     - Seeing how others' code can give new ideas! Or solve a problem you already have!
 3. Use code-centric instead of human-centric language. _(refer back to AOO, W2, HW for Wednesday, “Empathetic Communication” for a refresher!)_
 4. Ask clarifying questions.
-5. Take notice of how your partner read and understood your code so that you can gauge your work’s readability. 
-6. If your partner did have a hard time reading a line/snippet of code, be sure to add comments to those to help you understand your code in the future. 
+5. Take notice of how your partner was able to follow the logic of your code, so that you can gauge your work’s readability. 
+6. If your partner did have a hard time understanding a line/snippet of code, be sure to add comments to those to help you understand your code in the future. 
 7. Take feedback as something constructive and helpful for improvement. (On the flip side, be aware of how you present constructive feedback)
 8. Go through the starter project code *(user auth)* if you finish early. 
 
