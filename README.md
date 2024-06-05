@@ -358,8 +358,6 @@ We'll not be hosting daily standups during capstone development. Students are en
 
 Peer Review will start on Wednesday of the second week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Discord every day, to review each other's code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Discord.
 
-*Note- We will also do a short demo the morning of the day peer review starts.*
-
 > This exercise is helpful to practice communicating what your code does when an interviewer or coworker asks you to explain parts of your code.
 
 ## Steps:
@@ -371,10 +369,10 @@ Peer Review will start on Wednesday of the second week of capstone every day aft
    
 ## Things to consider:
 
-1. This **IS NOT** time to mainly debug or code.
+1. In the event that your code currently has a bug. Walk your partner through that code and explain what you are trying to accomplish step-by-step. Can your partner follow your logic?
 2. Both sides are responsible for getting equal time.
 3. Students are responsible to give and receive constructive feedback and commit to the exercise.
-4. IA’s will be jumping in rooms periodically to check progress and could ask questions! 
+4. I will be jumping in rooms periodically to check progress and could ask questions!
 5. Students will receive strikes if not committed to the exercise *(webcam is off, no discussions)*
 6. If you finish the section of code you had planned to go over early, pick another file and continue to walk through your code. If you are lost on what code to share, you can always go through the starter code!
 
