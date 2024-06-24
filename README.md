@@ -94,7 +94,7 @@ Students should have a clear road map during the planning phase of what should b
 
 ### A Quick Overview of Project Development Expectations
 
-Based on the pie chart below is a rough estimation of what a typical day for a software developer can look like. This can vary based on the company and the role, but ideally, you may be spending less than half a day on solely coding. The typical day-to-day basis during capstone weeks will be attending morning standups, engaging in peer reviews, and coding.
+Based on the pie chart below is a rough estimation of what a typical day for a software developer can look like. This can vary based on the company and the role, but ideally, you may be spending less than half a day on solely coding. The typical day-to-day during capstone weeks will include morning updates (not quite a standup), engaging in peer reviews, and coding.
 
 ![image (10)](https://github.com/crespohector/welcome-to-mod-7/assets/76798385/51825481-a876-413b-be6a-525b18b1d13a)
 
