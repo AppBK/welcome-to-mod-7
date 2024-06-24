@@ -90,7 +90,7 @@ We want to make sure we are completing ONE FEATURE before moving on to the next.
 
 Students should have a clear road map during the planning phase of what should be the MVPs for their capstone project.
 
-> The end goal is to have 4 features working. After graduation, to be greenlit you will need to have at least 3 features and the Greenlit requirements done in the scorecard. You will have additional time to work on your projects during post-graduation however, it is ideal to shoot for completing the Greenlit requirements early on.
+> The end goal is to have 4 features working. After graduation, to be Greenlit you will need to have the primary 4 features and the Greenlit requirements listed in the scorecard, completed. You will have additional time to work on your projects during post-graduation however, it is ideal to shoot for completing the Greenlit requirements early on. Most students will satisfy these requirements after 2 weeks post-grad.
 
 ### A Quick Overview of Project Development Expectations
 
@@ -110,7 +110,7 @@ Taking care of our mental health is an important aspect of our life. Please make
 
 ## Google Calendar
 
-This calendar is a great resource to know what the day-to-day basis will look like. There should be a "+" button at the bottom right corner, please add this calendar to your own Google Calendar.
+This calendar is a great resource to know what the day-to-day will look like. There should be a "+" button at the bottom right corner, please add this calendar to your own Google Calendar.
 - [Module 7 Calendar Link](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/Los_Angeles)
 
 ## Cheating
@@ -142,15 +142,15 @@ Students **MUST** have their cameras on during live lectures in Module 7, includ
 # Phase 1 - Project Approval
 
 ## Capstone Project Proposals
-All students should have a **target website** they will clone or use for inspiration. You must submit the [Google Project Proposal Form](https://forms.gle/VfwHSR88QZo73jUt5) and get approval from an IA before implementing the features. The deadline for all project proposals will have to be submitted by the **end of lunch** on W21D2. 
+All students should have a **target website** they will clone or use for inspiration. You must submit the [Google Project Proposal Form](https://forms.gle/VfwHSR88QZo73jUt5) and get approval from an Instructor before implementing the features. The deadline for all project proposals will have to be submitted by the **end of lunch** on W21D2. 
 
 If you're currently waiting for an IA to review your project proposal, please utilize the time appropriately and continue to be productive *(initialize your project + deploy skeleton starter, set up your GitHub repo, AWS walkthrough, project kanban board, etc.)*. 
 
 <!-- The Mod 7 staff will review your GitHub repo wiki documents based on the submission order. You can view the queue to see when your project is being reviewed in the Capstone Project Proposal Responses Google Spreadsheet. [Link to Proposal Responses](https://docs.google.com/spreadsheets/d/1CkUpeCLUL0x7Oo8aVzzRiR3Kj55GHgHGbTXtsPoapp4/edit?resourcekey#gid=640829555) -->
 
-*Note- Any project proposal without all the required wiki documentation will be disapproved and asked to complete.*
+*Note- Any project proposal without all the required wiki documentation will be removed from the queue and must be resubmitted after completion of said documentation.*
 
-IA's will have open office hours during the **Project Approval Phase** to help provide guidance on project proposals.
+I will have open office hours on W21D2, up until lunch, to answer any lingering questions about the proposal.
 
 ### Project Proposal Form
 After the required wiki documentation is completed on GitHub, submit this Google project proposal form.
@@ -162,7 +162,7 @@ After the required wiki documentation is completed on GitHub, submit this Google
 
 As you are preparing your documents for project approval, if you are anything like myself, it is quite likely that you'll simply copy the example that we provide and change values where necessary to make it indicative of your app. And then, you will probably forget that you even did that. And if you don't, in both cases, you possibly will have no clear idea about WHY you did it, aside from getting your project approved. I know I did that!! But since my time going through the academy, I can now see the value and purpose of the User Stories. Not only is this a great format to communicate your application's functionality to your boss or co-workers, but it is also a valuable tool for YOU to use as you actually begin the process of coding out your project.</br>
 </br>
-With an emphasis on an Agile workflow, which will have you working on a single feature from front to back, you may notice that in setting up your endpoints and routing, simply making a GET, POST, PUT, DELETE endpoint for your feature MAY not directly correlate with how you will be using any of this data on the front end. It may also not be immediately apparent when you need to have more endpoints than you originally thought. In a lot of cases, this will be apparent when GETting data!! This is actually where User Stories can be very helpful in the development of the backend!! If you consult your User Stories and see that your first feature will have functionality on the frontend that calls for grabbing a single item from the database, this tells you that you will probably need to setup an endpoint with the route /api/feature1/<int:id> GET, for example. You may also notice in your User Stories that your first feature has a link to a page with the 10 newest additions. This may indicate that you need another endpoint where you can grab the newest entries. Something like: /api/feature1/newest GET where you will also need to query the database in such a way that it returns the 10 most recently added items (This is where a column like 'created_at' becomes VERY useful!). And the list can go on!! But I hope that you can already see that the functionality you define as essential to your app, makes it clear what you may need on the backend and frontend alike! Use your User Stories as a way to inform and structure your own workflow!! It works!!
+With an emphasis on an Agile workflow, which will have you working on a single feature from front to back, you may notice that in setting up your endpoints and routing, simply making a GET, POST, PUT, DELETE endpoint for your feature MAY NOT directly correlate with how you will be using any of this data on the front end. It may also not be immediately apparent when you need to have more endpoints than you originally thought. In a lot of cases, this will be apparent when GETting data!! This is actually where User Stories can be very helpful in the development of the backend!! If you consult your User Stories and see that your first feature will have functionality on the frontend that calls for grabbing a single item from the database, this tells you that you will probably need to setup an endpoint with the route GET /api/feature1/<int:id>, for example. You may also notice in your User Stories that your first feature has a link to a page with the 10 newest additions. This may indicate that you need another endpoint where you can grab the newest entries. Something like: GET /api/feature1/newest where you will also need to query the database in such a way that it returns the 10 most recently added items (This is where a column like 'created_at' becomes VERY useful!). And the list can go on!! But I hope that you can already see that the functionality you define as essential to your app, makes it clear what you may need on the backend and frontend alike! Use your User Stories as a way to inform and structure your own workflow!! It works!!
 
 ---
 
