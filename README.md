@@ -216,30 +216,25 @@ Here are some capstone project ideas that tend to be associated with success in 
 * Amazon
 
 ### Projects We've Seen Students Struggle With:
-* Soundcloud (AWS)
-* Spotify (AWS)
-* Venmo (AWS / CRUD features are tricky)
-* Robinhood (AWS / WebSockets / CRUD features are tricky)
-* YouTube (AWS)
-* Netflix (AWS/ CRUD features are tricky)
+* Spotify (CRUD is tougher to define out to 4 features and for reasons unkown, these apps just never look impressive styling wise...)
+* Venmo (CRUD features are tricky)
+* Robinhood (CRUD features are tricky / Websockets if applicable)
+* Netflix (CRUD features are tricky / Integrating movies API)
 * Game Apps (CRUD features are tricky)
-* Disney+ (AWS / CRUD features are tricky)
+* Disney+ (CRUD features are tricky)
 * Slack (w/ Websockets)
 * Facebook (CSS can be challenging)
 
 ## Projects that are not allowed
-* Instagram
-* Twitter
-* Discord
-* Projects that the student has already done before in previous modules.
-* Mod 4/5 projects (AirBnB, Meetup)
+* Projects that the student has already done before in previous modules. AirBnB and MeetUp. 
+
 
 ## Using External Packages (NPM / PIP)
 **Please Note: Any external packages implemented without your Project Manager's approval are a risk of having to refactor your code**
 
 * Any package *(outside curriculum)* needs to be approved by your **Project Manager**
 * CSS frameworks *(Tailwind, Bootstrap, MaterialUI, etc.)* are **not allowed**
-* No Copying and Pasting CSS code
+* No Copying and Pasting CSS code (unless it is my reference for styling a File Input Button)
 
 *Any questions related to third-party APIs (AWS, Google Maps, Socket.io, NPM Packages, etc.) that are outside of the curriculum are the student's responsibility to debug. IA's may offer advice/guidance but are not expected to help debug.*
 
@@ -266,7 +261,7 @@ Here are some capstone project ideas that tend to be associated with success in 
 
 ## Lecture Questions Emoji System
 
-Because IA's are asked to answer all questions asynchronously when possible and because capstone issues can often take hours to address, the IA's will use slack reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
+Your instructor will answer all questions asynchronously when possible and because capstone issues can often take hours to address, the instructor will use Discord reaction emojis to communicate the status of your question. Please pay attention to these emojis and consider them official communication. If it seems odd to take emojis seriously welcome to the tech world!
 
 # 👀
 The eyeballs mean the IA's are aware of the question and are looking into it / discussing it in the Staff Room. There may be other questions ahead of yours and it may take time to resolve the question based on the complexity of the problem and how clear the question was, if screenshots or commits were provided, etc.
@@ -322,9 +317,13 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
 * If **technical questions come up**, your PM will ask you to put them in the lecture questions channel as we will not have time to debug during standups.
 * IA notes will include whether you met yesterday's goal fully / partially / not at all.
   -->
+## Daily Capstone Updates:
+We will not be hosting daily standups during capstone. Rather, these sessions will be replaced with a morning update. updates will be conveyed through a Direct Message in Discord. What your Daily Update must include:
+1. A screenshot of your most recent build on Render. You must push to main at least once a day and provide that evidence. The depicted build must not be more than 24 hours old.
+2. A brief description of what you accomplished yesterday. For example: "Yesterday I succeeded in finishing my seed data for my first feature. Then I created an endpoint to fetch all of those seeds, after which I created a bare-bones component and rendered the seed data on the frontend."
 
 ## Scheduling a 1 on 1 With Your Project Manager
-We'll not be hosting daily standups during capstone development. Students are encouraged to reach out to their project manager to schedule a 1 on 1 to discuss anything about their project *(Technical questions will still posted in the Technical channel)*.
+As we'll not be hosting daily standups during capstone development. Students are encouraged to reach out to their project manager to schedule a 1 on 1 to discuss anything conceptual about their project or to address any personal concerns that may impede progress. *(Technical questions will still posted in the Technical channel)*.
 
 
 ## Workflow Expectations
@@ -360,8 +359,6 @@ We'll not be hosting daily standups during capstone development. Students are en
 ## Requesting a Feature Review
 
 Requesting Feature Reviews will begin on Monday of the second week of capstone development (W22D1) and go through until the end of Wednesday (W22D3). Ideally, your project should be nearly completed before submitting a feature review so we can point out as many bugs/corrections that will help prepare you for the final grading when projects are due. You can reach out to your project manager when your project is ready for a feature review.
-
-**Note that Wednesday is the final day to request a Feature Review.**
 
 ## Review Your Scorecard
 After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart. Please reach out to your grader to ask for any clarifying questions, and to ensure what you need to work on. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
@@ -436,7 +433,6 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 * *Optional* Link to your backend repo if you have a separate one
 * Summary of what the project is and what it does
 * Screenshots of your app in action (once completed)
-* Instructions on how to build/run the project (installation instructions)
 * List of techs/languages/plugins/APIs used
 * To-dos/future features
 * Technical implementation details
@@ -453,7 +449,6 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 * Include nice screenshots or GIFs to show and demonstrate the features of your application
 * Include code snippets
 * Include a link to the live site
-* Provide instructions for how to install the project (if applicable)
 * Include a list of technologies used in the project
 * Include a list of any third-party APIs you used in the project
 
