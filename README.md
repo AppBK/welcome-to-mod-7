@@ -70,7 +70,7 @@ The first feature has to be **full** CRUD. and the second feature can be **3/4**
 ### Error Validations
 A User should **NOT** be allowed to update or submit a form with blank or null input fields that are assumed to be required. All input fields within a form are assumed to be required and tested as such. If certain fields within a form are not required, then all required fields must be marked by a different CSS style or an asterisk (*) next to the label to indicate a required field.
 
-Please refer to the Error Validations Repo for more examples.
+Please refer to the Error Validations Repo for more examples and disregard the reference to URL inputs as this is not an option for Capstone.
 [Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages)
 
 ### Prepopulating Data For the Update Form
