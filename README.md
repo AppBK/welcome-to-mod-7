@@ -376,7 +376,7 @@ After fixing all the feedback from your first feature review, you can reach out 
     * IA's will do their best to leave as much feedback as possible, however, **it is your responsibility to test the functionality on your app to ensure it still works as expected**.
 
 ## Final Grade
-Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as **"Feature Review"** and **"Capstone"**. Your capstone project final grade will be in the "Capstone" tab. Students will transition to the AI curriculum and project time, and the Mod 7 team will begin final grading student's projects during this time. Please try to avoid watching an IA live grade, your priority will be to focus on any work given by your instructor. Once all projects have been graded, the staff will announce it in the Discord General channel.
+Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as **"Feature Review"** and **"Capstone"**. Your capstone project final grade will be in the "Capstone" tab. Students will transition to the AI Introductory Practices and project time, while the Mod 7 team officially begins final grading. Please try to avoid watching an IA live grade, your priority will be to focus on any work given by your instructor. Once all projects have been graded, the staff will announce it in the Discord General channel.
 
 *The last time to deploy any changes to your Render application will be at 8 AM PT / 11 AM EST. Any changes made during final grading will be **considered cheating and handled appropriately**.*
 
