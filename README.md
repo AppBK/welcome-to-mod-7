@@ -354,7 +354,39 @@ We'll not be hosting daily standups during capstone development. Students are en
 
 ---
 
-# Phase 2.5 - Peer Review
+# Phase 2.5 - Feature Reviews / Final Grading
+
+## Requesting a Feature Review
+
+Requesting Feature Reviews will begin on Monday of the second week of capstone development (W22D1) and go through until the end of Wednesday (W22D3). Ideally, your project should be nearly completed before submitting a feature review so we can point out as many bugs/corrections that will help prepare you for the final grading when projects are due. You can reach out to your project manager when your project is ready for a feature review.
+
+**Note that Wednesday is the final day to request a Feature Review.**
+
+## Review Your Scorecard
+After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart. Please reach out to your grader to ask for any clarifying questions, and to ensure what you need to work on. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
+
+## 2nd Feature Review
+After fixing all the feedback from your first feature review, you can reach out to your grader for another feature review. The 2nd feature review will not be a complete thorough examination, the instructor will only review the bugs noted in the bug chart.
+
+### Test Test Test Your Features
+* Students are **expected** and **responsible** to test their deployed app before final grading.
+    * Test the CRUD functionality of all implemented features.
+    * Test the User Auth (login, sign up, error validations, demo user, logout).
+    * Make sure that your site works for new users and Demo/seeded users.
+    * Check if the styling is consistent throughout the entire app.
+    * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
+    * IA's will do their best to leave as much feedback as possible, however, **it is your responsibility to test the functionality on your app to ensure it still works as expected**.
+
+## Final Grade
+Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as **"Feature Review"** and **"Capstone"**. Your capstone project final grade will be in the "Capstone" tab. Students will transition to the AI curriculum and project time, and the Mod 7 team will begin final grading student's projects during this time. Please try to avoid watching an IA live grade, your priority will be to focus on any work given by your instructor. Once all projects have been graded, the staff will announce it in the Discord General channel.
+
+*The last time to deploy any changes to your Render application will be at 8 AM PT / 11 AM EST. Any changes made during final grading will be **considered cheating and handled appropriately**.*
+
+Under the Capstone tab, students will see the status of their project, either as "pass", "fail", or "currently grading". Any capstone project marked as "fail" will take an academic deferral. Please do not view it as a negative outcome but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. 
+
+---
+
+# Phase 3.0 - Peer Review
 
 Peer Review will start on Wednesday of the second week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Discord every day, with whom you shall walkthrough and explain your own code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Discord. In fact, if you post a question in Lecture during this time, it will incur a strike for you and your partner. 
 
@@ -388,38 +420,6 @@ Peer Review will start on Wednesday of the second week of capstone every day aft
 6. If your partner did have a hard time understanding a line/snippet of code, be sure to add comments to those to help you understand your code in the future. 
 7. Take feedback as something constructive and helpful for improvement. (On the flip side, be aware of how you present constructive feedback)
 8. Go through the starter project code *(user auth)* if you finish early. 
-
----
-
-# Phase 3 - Feature Reviews / Final Grading
-
-## Requesting a Feature Review
-
-Requesting Feature Reviews will begin on Monday of the second week of capstone development (W22D1) and go through until the end of Wednesday (W22D3). Ideally, your project should be nearly completed before submitting a feature review so we can point out as many bugs/corrections that will help prepare you for the final grading when projects are due. You can reach out to your project manager when your project is ready for a feature review.
-
-**Note that Wednesday is the final day to request a Feature Review.**
-
-## Review Your Scorecard
-After receiving your Feature Review, your priority should be fixing any bugs listed in the bug chart. Please reach out to your grader to ask for any clarifying questions, and to ensure what you need to work on. After fixing the corrections from the scorecard, **please test on Production** to ensure it works as expected.
-
-## 2nd Feature Review
-After fixing all the feedback from your first feature review, you can reach out to your grader for another feature review. The 2nd feature review will not be a complete thorough examination, the instructor will only review the bugs noted in the bug chart.
-
-### Test Test Test Your Features
-* Students are **expected** and **responsible** to test their deployed app before final grading.
-    * Test the CRUD functionality of all implemented features.
-    * Test the User Auth (login, sign up, error validations, demo user, logout).
-    * Make sure that your site works for new users and Demo/seeded users.
-    * Check if the styling is consistent throughout the entire app.
-    * Check to make sure error validations work as intended for user auth and all features *(check [Capstone Minimum Required Error Messages](https://github.com/whitnessme/capstone-minimum-required-error-messages) for more info)*
-    * IA's will do their best to leave as much feedback as possible, however, **it is your responsibility to test the functionality on your app to ensure it still works as expected**.
-
-## Final Grade
-Upon final grading, you should see two tabs at the bottom of the scorecard Google spreadsheet labeled as **"Feature Review"** and **"Capstone"**. Your capstone project final grade will be in the "Capstone" tab. Students will transition to the AI curriculum and project time, and the Mod 7 team will begin final grading student's projects during this time. Please try to avoid watching an IA live grade, your priority will be to focus on any work given by your instructor. Once all projects have been graded, the staff will announce it in the Discord General channel.
-
-*The last time to deploy any changes to your Render application will be at 8 AM PT / 11 AM EST. Any changes made during final grading will be **considered cheating and handled appropriately**.*
-
-Under the Capstone tab, students will see the status of their project, either as "pass", "fail", or "currently grading". Any capstone project marked as "fail" will take an academic deferral. Please do not view it as a negative outcome but as an opportunity to extend your learning to gain more mastery, which is imperative in the job search. 
 
 ---
 
