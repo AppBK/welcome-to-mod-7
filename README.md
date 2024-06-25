@@ -441,7 +441,30 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
    * Snippets or links to see code for these
 * Links to contact you *(LinkedIn)*
 * Endpoints (See example below)*
-<img width="983" alt="MarkdownEndpointsExample" src="https://github.com/crespohector/welcome-to-mod-7/assets/107947798/c80e52df-478f-4eb5-a034-45393e170078">
+## Auth Routes
+
+### Current User
+##
+* Purpose: This fetch is sent upon initial app load and on subsequent refreshes and navigations. It returns an object representing the current user, if user is logged in.
+* Method: ```POST```
+* URL: ```/api/auth/```
+* Successful Response: HTTP Status Code 200
+```python
+{
+    'cart': ARRAY_OF_PRODUCT_OBJECTS,
+    'createdat': STRING,
+    'email': STRING,
+    'id': INT,
+    'updatedat': STRING,
+    'username': STRING
+}
+```
+* Error Response: HTTP Status Code 401
+```python
+{
+  'errors': 'Unauthorized'
+}
+```
 
 ### Best Practices
 * Divide your README into distinct sections
@@ -454,9 +477,9 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
 
 [Example of a ReadMe](https://github.com/AppBK/Sweetwafer)
 
-[Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<!-- [Markdown Guide Link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[Making Tables in Markdown Tutorial](https://www.makeuseof.com/tag/learning-markdown-write-web-faster/)
+[Making Tables in Markdown Tutorial](https://www.makeuseof.com/tag/learning-markdown-write-web-faster/) -->
 
 ## About Links
 GitHub and LinkedIn links should be located somewhere in the footer, splash page, and navigation/header. Please refrain from trying to place these links in creative places or as “Easter Eggs”. 
