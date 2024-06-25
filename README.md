@@ -441,7 +441,7 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
    * Snippets or links to see code for these
 * Links to contact you *(LinkedIn)*
 * Endpoints (See example below)*
-## Auth Routes
+## Endpoints Example: Auth Routes
 
 ### Current User
 ##
