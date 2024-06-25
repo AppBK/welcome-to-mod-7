@@ -465,7 +465,7 @@ What to do moving forward? Well, the journey has only just begun. As you get clo
   'errors': 'Unauthorized'
 }
 ```
-
+##
 ### Best Practices
 * Divide your README into distinct sections
 * List the technologies used at the top of your README for increased visibility
