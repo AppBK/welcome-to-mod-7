@@ -386,7 +386,7 @@ Under the Capstone tab, students will see the status of their project, either as
 
 # Phase 3.0 - Peer Review
 
-Peer Review will start on Wednesday of the second week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Discord every day, with whom you shall walkthrough and explain your own code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Discord. In fact, if you post a question in Lecture during this time, it will incur a strike for you and your partner. 
+Peer Review will start on Wednesday of the second week of capstone every day after lunch, at 12:30 PT / 3:30 EST for a total of 45 minutes. Students will get assigned a pair, posted to Discord every day, with whom you shall walkthrough and explain your own code. Below are guidelines to help illustrate how peer review will work. Please note, that during this time, instructors will not be available for questions on Discord.
 
 > This exercise is helpful to practice communicating what your code does when an interviewer or coworker asks you to explain parts of your code.
 
