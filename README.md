@@ -317,10 +317,10 @@ Each student will take roughly 1-5 minutes to screen-share their Kanban board to
 * If **technical questions come up**, your PM will ask you to put them in the lecture questions channel as we will not have time to debug during standups.
 * IA notes will include whether you met yesterday's goal fully / partially / not at all.
   -->
-## Daily Capstone Updates:
+<!-- ## Daily Capstone Updates:
 We will not be hosting daily standups during capstone. Rather, these sessions will be replaced with a morning update. updates will be conveyed through a Direct Message in Discord. What your Daily Update must include:
 1. A screenshot of your most recent build on Render. You must push to main at least once a day and provide that evidence. The depicted build must not be more than 24 hours old.
-2. A brief description of what you accomplished yesterday. For example: "Yesterday I succeeded in finishing my seed data for my first feature. Then I created an endpoint to fetch all of those seeds, after which I created a bare-bones component and rendered the seed data on the frontend."
+2. A brief description of what you accomplished yesterday. For example: "Yesterday I succeeded in finishing my seed data for my first feature. Then I created an endpoint to fetch all of those seeds, after which I created a bare-bones component and rendered the seed data on the frontend." -->
 
 <!--## Scheduling a 1 on 1 With Your Project Manager
 As we'll not be hosting daily standups during capstone development. Students are encouraged to reach out to their project manager to schedule a 1 on 1 to discuss anything conceptual about their project or to address any personal concerns that may impede progress. *(Technical questions will still posted in the Technical channel)*. -->
